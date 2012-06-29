@@ -1,0 +1,7 @@
+2D, tile-based, multiplayer game written in Ruby using Ray framework
+
+Starting server:
+ruby server.rb
+
+Starting the game:
+ruby main.rb
